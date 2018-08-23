@@ -1,0 +1,54 @@
+2018/08/08 11:31:06 INFO  - jmeter.util.JMeterUtils: Setting Locale to zh_CN 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Loading user properties from: /Users/xiaowen.du/Downloads/apache-jmeter-3.1/bin/user.properties 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Loading system properties from: /Users/xiaowen.du/Downloads/apache-jmeter-3.1/bin/system.properties 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Version 3.1 r1770033 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: java.version=1.8.0_181 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: os.arch=x86_64 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: os.version=10.13.4 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Max memory     =514850816 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Available Processors =4 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: Default Locale=中文 (中国) 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: JMeter  Locale=中文 (中国) 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: JMeterHome=/Users/xiaowen.du/Downloads/apache-jmeter-3.1 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: user.dir  =/Users/xiaowen.du 
+2018/08/08 11:31:06 INFO  - jmeter.JMeter: PWD       =/Users/xiaowen.du 
+2018/08/08 11:31:09 INFO  - jmeter.JMeter: IP: 10.57.244.51 Name: xiaowendudeMacBook-Air.local FullName: 10.57.244.51 
+2018/08/08 11:31:10 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System] 
+2018/08/08 11:31:10 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2018/08/08 11:31:13 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2018/08/08 11:31:13 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2018/08/08 11:31:17 INFO  - org.jmeterplugins.repository.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, jpgc-sense=2.4, jpgc-functions=2.0, jpgc-casutg=2.1, jpgc-dummy=0.2, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-json=2.6, jpgc-perfmon=2.1, jpgc-plugins-manager=0.12, jpgc-tst=2.0, jmeter-core=3.1, jmeter-ftp=3.1, jmeter-http=3.1, jmeter-jdbc=3.1, jmeter-junit=3.1, jmeter-java=3.1, jmeter-ldap=3.1, jmeter-mail=3.1, jmeter-mongodb=3.1, jmeter-native=3.1, jmeter-tcp=3.1, jmeter-components=3.1, jpgc-standard=2.0] 
+2018/08/08 11:31:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion 
+2018/08/08 11:31:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor 
+2018/08/08 11:31:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2018/08/08 11:31:19 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2018/08/08 11:31:20 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2018/08/08 11:31:20 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/xiaowen.du/Downloads/apache-jmeter-3.1/bin/proxyserver.jks 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener 
+2018/08/08 11:31:20 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.MonitorHealthVisualizer 
+2018/08/08 11:31:20 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2018/08/08 11:31:20 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2018/08/08 11:31:20 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2018/08/08 11:31:20 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2018/08/08 11:31:30 INFO  - jmeter.services.FileServer: Default base='/Users/xiaowen.du' 
+2018/08/08 11:31:30 INFO  - jmeter.gui.action.Load: Loading file: /Users/xiaowen.du/Downloads/Ademo.jmx 
+2018/08/08 11:31:30 INFO  - jmeter.services.FileServer: Set new base='/Users/xiaowen.du/Downloads' 
+2018/08/08 11:31:31 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2018/08/08 11:31:31 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2018/08/08 11:31:31 INFO  - jmeter.save.SaveService: Using SaveService properties version 3.1 
+2018/08/08 11:31:31 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2018/08/08 11:31:31 INFO  - jmeter.save.SaveService: Loading file: /Users/xiaowen.du/Downloads/Ademo.jmx 
+2018/08/08 11:31:31 INFO  - jmeter.services.FileServer: Set new base='/Users/xiaowen.du/Downloads' 
